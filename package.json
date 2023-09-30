@@ -1,11 +1,11 @@
 {
-  "name": "pickfu-url-short-service",
+  "name": "urlshortener",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node app"
   },
-  "description": "pickfu-url-short-service",
+  "description": "urlshortener",
   "author": {
     "name": ""
   },
