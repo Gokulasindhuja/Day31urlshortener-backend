@@ -32,7 +32,7 @@ router.get("/",
 
         response.render("index.pug",
             {
-                title: "Url Shortner Service"
+                title: "URL Shortner Application"
             });
     });
 
